@@ -2,8 +2,8 @@
  * @Author: gmx
  * @Date: 2023-05-21 15:38:01
  * @LastEditors: gmx
- * @LastEditTime: 2023-05-23 21:03:31
- * @Description: 
+ * @LastEditTime: 2023-05-23 21:22:56
+ * @Description: 还是有点臃肿，没有发挥出组件化的优势
  * @Version: 1.0
 -->
 <template>
@@ -17,7 +17,6 @@
 </template>
 
 <script>
-import { nextTick } from 'vue';
 import FlipCard from './FlipCard.vue';
 export default {
 
