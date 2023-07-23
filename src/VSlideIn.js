@@ -1,3 +1,4 @@
+// 一个vue自定义指令：元素的平滑移入，有时间再写详细注释
 const DISTANCE = 10;
 const DURATION = 500;
 const EASE = "ease";
