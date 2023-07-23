@@ -7,9 +7,11 @@
  * @Version: 1.0
 -->
 <script setup>
+import SlideIn from './components/SlideIn.vue';
 </script>
 
 <template>
+<SlideIn/>
 </template>
 
 <style scoped>
